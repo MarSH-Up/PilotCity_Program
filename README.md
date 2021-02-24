@@ -8,4 +8,5 @@ Hi Guys, here you are going to find the material to complete the basic introduct
 	<img src=https://www.multisim.com/api/v1/image/1381656/um945de29gwhbnxsl4hlwn-pngthumbnailcircuit/555%20blinky.png><br>Multisim Live: 555 blinky
 </a>
 
-![SeeedStudio].(Seeed.PNG)
+
+![SeeedStudio](Seeed.PNG)
