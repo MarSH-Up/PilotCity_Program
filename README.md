@@ -9,4 +9,4 @@ Hi Guys, here you are going to find the material to complete the basic introduct
 </a>
 
 
-![SeeedStudio](Seeed.PNG)
+![SeeedStudio](Seeed.jpg)
